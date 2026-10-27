@@ -7,6 +7,8 @@ The only backend developer at a custom software studio: in 2026 I ran the backen
 ## Projects
 
 - [collarbell](https://github.com/larichevns/collarbell): pet care tracker for cat and dog households. .NET 10 modular monolith, Flutter app, React web app, Gemini for pet passport recognition, real-time sync between family members (SignalR), deploy with rollback and backups.
+- [fusionlearning](https://github.com/larichevns/fusionlearning): AI-powered platform for learning programming. .NET 10 API, Python / FastAPI AI service (Claude, Gemini, Qwen), code sandbox in Docker, React admin panel, a Python course of 229 lessons as seed content. I built the entire backend; the student app is my co-founder's.
+- [language-learn-assistant](https://github.com/larichevns/language-learn-assistant): AI assistant for learning German. Next.js 15, React 19, Prisma + PostgreSQL, Gemini; proposal-based writes, a 5-layer context engine, PWA with offline support.
 - [claude-dev-toolkit](https://github.com/larichevns/claude-dev-toolkit): Claude Code plugin with skills for .NET 9 + React + EF Core + PostgreSQL projects.
 - [MSA-GoFuture](https://github.com/larichevns/MSA-GoFuture): final project of the Microservice Architecture course (Yandex Practicum, 2025): migration plan from a monolith to microservices, event-driven design on Kafka, monitoring.
 
